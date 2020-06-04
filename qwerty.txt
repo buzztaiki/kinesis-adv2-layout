@@ -8,5 +8,5 @@
 [ralt]>[lalt]
 [bspace]>[lctrl]
 [delete]>[bspace]
-[space]>[space][t&h120][rshift]
-[enter]>[enter][t&h120][ralt]
+[space]>[space][t&h100][rshift]
+[enter]>[enter][t&h100][ralt]
