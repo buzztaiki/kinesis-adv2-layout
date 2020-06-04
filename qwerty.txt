@@ -5,8 +5,6 @@
 
 [caps]>[escape]
 [lctrl]>[lwin]
-[ralt]>[lalt]
+[rctrl]>[ralt]
 [bspace]>[lctrl]
 [delete]>[bspace]
-[space]>[space][t&h100][rshift]
-[enter]>[enter][t&h100][ralt]
