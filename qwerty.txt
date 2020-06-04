@@ -1,0 +1,12 @@
+* this is comment line
+* tap and hold: [lshift]>[esc][t&h250][lshift]
+* location tokens: alt=ralt, win=rwin, ins=intl-\
+* token names: https://github.com/KinesisCorporation/SmartSetApps/blob/master/SmartSetSavantElite/u_key_service.pas#L134
+
+[caps]>[escape]
+[lctrl]>[lwin]
+[ralt]>[lalt]
+[bspace]>[lctrl]
+[delete]>[bspace]
+[space]>[space][t&h120][rshift]
+[enter]>[enter][t&h120][ralt]
