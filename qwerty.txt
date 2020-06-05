@@ -10,10 +10,10 @@
 [caps]>[escape]
 [escape]>[delete]
 
-[bspace]>[bspace]
-[delete]>[lctrl]
-[enter]>[ralt]
-[space]>[space]
+[bspace]>[lctrl]
+[delete]>[bspace]
+[enter]>[space]
+[space]>[ralt]
 
 [lctrl]>[lwin]
 [rctrl]>[enter]
