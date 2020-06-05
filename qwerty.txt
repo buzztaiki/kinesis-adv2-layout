@@ -4,7 +4,16 @@
 * token names: https://github.com/KinesisCorporation/SmartSetApps/blob/master/SmartSetSavantElite/u_key_service.pas#L134
 
 [caps]>[escape]
+
 [lctrl]>[lwin]
 [rctrl]>[ralt]
 [bspace]>[lctrl]
 [delete]>[bspace]
+
+[a]>[a][t&h120][lctrl]
+[s]>[s][t&h120][lalt]
+[d]>[d][t&h120][lwin]
+
+[;]>[;][t&h120][rctrl]
+[l]>[l][t&h120][ralt]
+[k]>[k][t&h120][rwin]
