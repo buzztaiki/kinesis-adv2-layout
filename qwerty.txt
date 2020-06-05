@@ -17,3 +17,8 @@
 
 [lctrl]>[lwin]
 [rctrl]>[enter]
+
+[up]>[down]
+[down]>[up]
+[kp-up]>[down]
+[kp-down]>[up]
