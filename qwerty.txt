@@ -1,9 +1,14 @@
 * this is comment line
 * tap and hold: [lshift]>[esc][t&h250][lshift]
-* location tokens: alt=ralt, win=rwin, ins=intl-\
 * token names: https://github.com/KinesisCorporation/SmartSetApps/blob/master/SmartSetSavantElite/u_key_service.pas#L134
+* manual: https://kinesis-ergo.com/support/advantage2/#manuals
+
+[intl-\]>[kpshift]
+[kp-insert]>[kpshift]
+[scroll]>[null]
 
 [caps]>[escape]
+[escape]>[delete]
 
 [lctrl]>[lwin]
 [rctrl]>[ralt]
