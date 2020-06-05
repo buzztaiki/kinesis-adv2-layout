@@ -8,7 +8,7 @@
 [scroll]>[null]
 
 [bspace]>[lctrl]
-[delete]>[bspace]
+[delete]>[tab]
 [enter]>[enter]
 [space]>[space]
 
@@ -17,8 +17,11 @@
 [rwin]>[rwin]
 [rctrl]>[ralt]
 
-[tab]>[tab]
-[caps]>[escape]
+[home]>[escape]
+[end]>[bspace]
+
+[tab]>[home]
+[caps]>[end]
 
 [up]>[down]
 [down]>[up]
