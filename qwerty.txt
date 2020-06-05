@@ -7,16 +7,17 @@
 [kp-insert]>[kpshift]
 [scroll]>[null]
 
-[caps]>[escape]
-[escape]>[delete]
-
 [bspace]>[lctrl]
-[delete]>[bspace]
+[delete]>[tab]
 [enter]>[space]
 [space]>[ralt]
 
 [lctrl]>[lwin]
 [rctrl]>[enter]
+[lalt]>[escape]
+
+[caps]>[bspace]
+[tab]>[delete]
 
 [up]>[down]
 [down]>[up]
