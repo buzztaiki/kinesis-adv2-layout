@@ -8,16 +8,17 @@
 [scroll]>[null]
 
 [bspace]>[lctrl]
-[delete]>[tab]
-[enter]>[space]
-[space]>[ralt]
+[delete]>[bspace]
+[enter]>[enter]
+[space]>[space]
 
 [lctrl]>[lwin]
-[rctrl]>[enter]
-[lalt]>[escape]
+[lalt]>[lalt]
+[rwin]>[rwin]
+[rctrl]>[ralt]
 
-[caps]>[bspace]
-[tab]>[delete]
+[tab]>[tab]
+[caps]>[escape]
 
 [up]>[down]
 [down]>[up]
