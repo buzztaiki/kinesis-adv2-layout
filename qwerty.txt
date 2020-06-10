@@ -27,3 +27,9 @@
 [down]>[up]
 [kp-up]>[down]
 [kp-down]>[up]
+
+[/]>[/][t&h120][rctrl]
+[z]>[z][t&h120][lalt]
+
+[kp-left]>[rmouse]
+[kp-right]>[lmouse]
