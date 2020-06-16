@@ -1,4 +1,3 @@
-* this is comment line
 * tap and hold: [lshift]>[esc][t&h250][lshift]
 * token names: https://github.com/KinesisCorporation/SmartSetApps/blob/master/SmartSetSavantElite/u_key_service.pas#L134
 * manual: https://kinesis-ergo.com/support/advantage2/#manuals
@@ -7,18 +6,18 @@
 [kp-insert]>[kpshift]
 [scroll]>[null]
 
-[bspace]>[lctrl]
-[delete]>[bspace]
+[bspace]>[bspace]
+[delete]>[lctrl]
 [enter]>[enter]
 [space]>[space]
 
 [lctrl]>[tab]
 [lalt]>[escape]
-[rwin]>[lwin]
+[rwin]>[rctrl]
 [rctrl]>[ralt]
 
 [home]>[lwin]
-[end]>[lwin]
+[end]>[escape]
 
 [tab]>[home]
 [caps]>[end]
@@ -27,9 +26,6 @@
 [down]>[up]
 [kp-up]>[down]
 [kp-down]>[up]
-
-[/]>[/][t&h120][rctrl]
-[z]>[z][t&h120][lalt]
 
 [kp-left]>[rmouse]
 [kp-right]>[lmouse]
