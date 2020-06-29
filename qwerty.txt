@@ -7,14 +7,14 @@
 [scroll]>[null]
 
 [bspace]>[bspace]
-[delete]>[tab]
+[delete]>[lctrl]
 [enter]>[enter]
 [space]>[space]
 
-[lctrl]>[lctl]
-[lalt]>[lalt]
-[rwin]>[ralt]
-[rctrl]>[rctrl]
+[lctrl]>[tab]
+[lalt]>[escape]
+[rwin]>[rctrl]
+[rctrl]>[ralt]
 
 [home]>[lwin]
 [end]>[escape]
