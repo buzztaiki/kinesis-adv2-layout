@@ -19,8 +19,10 @@
 [home]>[lwin]
 [end]>[escape]
 
-[tab]>[home]
-[caps]>[end]
+[=]>[home]
+[tab]>[end]
+[caps]>[\]
+[\]>[=]
 
 [up]>[down]
 [down]>[up]
