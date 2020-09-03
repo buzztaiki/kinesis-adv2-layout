@@ -31,3 +31,5 @@
 
 [kp-left]>[rmouse]
 [kp-right]>[lmouse]
+
+[mp-kpshf]>[lctrl]
