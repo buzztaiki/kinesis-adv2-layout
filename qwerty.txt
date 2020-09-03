@@ -18,6 +18,8 @@
 
 [home]>[lwin]
 [end]>[escape]
+[pup]>[pup]
+[pdown]>[pdown]
 
 [=]>[home]
 [tab]>[end]
