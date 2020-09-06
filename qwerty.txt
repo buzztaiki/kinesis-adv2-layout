@@ -2,24 +2,46 @@
 * token names: https://github.com/KinesisCorporation/SmartSetApps/blob/master/SmartSetSavantElite/u_key_service.pas#L134
 * manual: https://kinesis-ergo.com/support/advantage2/#manuals
 
+* thumb keys
+
+*[bspace]>[bspace]
+*[delete]>[lctrl]
+*[enter]>[enter]
+*[space]>[space]
+*
+*[lctrl]>[tab]
+*[lalt]>[escape]
+*[rwin]>[rctrl]
+*[rctrl]>[ralt]
+*
+*[home]>[lwin]
+*[end]>[escape]
+*[pup]>[pup]
+*[pdown]>[pdown]
+
+[bspace]>[enter]
+[delete]>[lctrl]
+[enter]>[rctrl]
+[space]>[space]
+
+[lctrl]>[lalt]
+[lalt]>[tab]
+[rwin]>[lwin]
+[rctrl]>[ralt]
+
+[home]>[escape]
+[end]>[bspace]
+[pup]>[pup]
+[pdown]>[pdown]
+
+** kp-space
+[kp0]>[bspace]
+
+
+* other keys
 [intl-\]>[kpshift]
 [kp-insert]>[kpshift]
 [scroll]>[null]
-
-[bspace]>[bspace]
-[delete]>[lctrl]
-[enter]>[enter]
-[space]>[space]
-
-[lctrl]>[tab]
-[lalt]>[escape]
-[rwin]>[rctrl]
-[rctrl]>[ralt]
-
-[home]>[lwin]
-[end]>[escape]
-[pup]>[pup]
-[pdown]>[pdown]
 
 [=]>[home]
 [tab]>[end]
