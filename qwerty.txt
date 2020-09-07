@@ -26,11 +26,11 @@
 
 [lctrl]>[lalt]
 [lalt]>[tab]
-[rwin]>[lwin]
+[rwin]>[bspace]
 [rctrl]>[ralt]
 
 [home]>[escape]
-[end]>[bspace]
+[end]>[lwin]
 [pup]>[pup]
 [pdown]>[pdown]
 
