@@ -9,15 +9,15 @@
 [enter]>[rctrl]
 [space]>[space]
 
-[lctrl]>[lalt]
-[lalt]>[tab]
-[rwin]>[bspace]
-[rctrl]>[ralt]
+[lctrl]>[escape]
+[lalt]>[pup]
+[rwin]>[pdown]
+[rctrl]>[lwin]
 
-[home]>[escape]
-[end]>[lwin]
-[pup]>[pup]
-[pdown]>[pdown]
+[home]>[tab]
+[end]>[lalt]
+[pup]>[bspace]
+[pdown]>[ralt]
 
 ** kp-space
 [kp0]>[bspace]
