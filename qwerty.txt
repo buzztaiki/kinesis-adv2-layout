@@ -4,21 +4,6 @@
 
 * thumb keys
 
-*[bspace]>[bspace]
-*[delete]>[lctrl]
-*[enter]>[enter]
-*[space]>[space]
-*
-*[lctrl]>[tab]
-*[lalt]>[escape]
-*[rwin]>[rctrl]
-*[rctrl]>[ralt]
-*
-*[home]>[lwin]
-*[end]>[escape]
-*[pup]>[pup]
-*[pdown]>[pdown]
-
 [bspace]>[enter]
 [delete]>[lctrl]
 [enter]>[rctrl]
