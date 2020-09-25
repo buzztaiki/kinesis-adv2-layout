@@ -14,9 +14,9 @@
 [rwin]>[pdown]
 [rctrl]>[bspace]
 
-[home]>[escape]
+[home]>[lalt]
 [end]>[lalt]
-[pup]>[lwin]
+[pup]>[ralt]
 [pdown]>[ralt]
 
 ** kp-space
