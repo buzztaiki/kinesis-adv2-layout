@@ -9,14 +9,14 @@
 [enter]>[rctrl]
 [space]>[space]
 
-[lctrl]>[escape]
+[lctrl]>[tab]
 [lalt]>[pup]
 [rwin]>[pdown]
-[rctrl]>[lwin]
+[rctrl]>[bspace]
 
-[home]>[tab]
+[home]>[escape]
 [end]>[lalt]
-[pup]>[bspace]
+[pup]>[lwin]
 [pdown]>[ralt]
 
 ** kp-space
