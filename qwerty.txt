@@ -10,14 +10,14 @@
 [space]>[space]
 
 [lctrl]>[tab]
-[lalt]>[pup]
-[rwin]>[pdown]
+[lalt]>[escape]
+[rwin]>[lwin]
 [rctrl]>[bspace]
 
 [home]>[lalt]
-[end]>[lalt]
+[end]>[pdown]
 [pup]>[ralt]
-[pdown]>[ralt]
+[pdown]>[pup]
 
 ** kp-space
 [kp0]>[bspace]
