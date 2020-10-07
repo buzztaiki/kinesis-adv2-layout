@@ -22,7 +22,6 @@
 ** kp-space
 [kp0]>[bspace]
 
-
 * other keys
 [intl-\]>[kpshift]
 [kp-insert]>[kpshift]
@@ -41,4 +40,5 @@
 [kp-left]>[rmouse]
 [kp-right]>[lmouse]
 
+* foot pedal
 [mp-kpshf]>[lctrl]
