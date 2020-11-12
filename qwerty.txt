@@ -34,8 +34,13 @@
 
 [up]>[down]
 [down]>[up]
-[kp-up]>[down]
-[kp-down]>[up]
+[obrack]>[obrack]
+[cbrack]>[cbrack]
+
+[`]>[`]
+[intl-\]>[intl-\]
+[left]>[left]
+[right]>[right]
 
 [kp-left]>[rmouse]
 [kp-right]>[lmouse]
