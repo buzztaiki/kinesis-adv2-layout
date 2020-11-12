@@ -15,32 +15,31 @@
 [rctrl]>[bspace]
 
 [home]>[lalt]
-[end]>[pdown]
+[end]>[obrack]
 [pup]>[ralt]
-[pdown]>[pup]
+[pdown]>[cbrack]
 
 ** kp-space
 [kp0]>[bspace]
 
 * other keys
-[intl-\]>[kpshift]
-[kp-insert]>[kpshift]
 [scroll]>[null]
 
-[=]>[home]
-[tab]>[end]
-[caps]>[\]
-[\]>[=]
+[=]>[=]
+[tab]>[`]
+[caps]>[kpshift]
+[kp-caps]>[kpshift]
+[\]>[\]
 
 [up]>[down]
 [down]>[up]
-[obrack]>[obrack]
-[cbrack]>[cbrack]
+[obrack]>[left]
+[cbrack]>[right]
 
-[`]>[`]
-[intl-\]>[intl-\]
-[left]>[left]
-[right]>[right]
+[`]>[home]
+[intl-\]>[end]
+[left]>[pup]
+[right]>[pdown]
 
 [kp-left]>[rmouse]
 [kp-right]>[lmouse]
