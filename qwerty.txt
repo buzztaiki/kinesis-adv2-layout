@@ -16,18 +16,17 @@
 [rctrl]>[bspace]
 
 [home]>[lalt]
-[end]>[obrack]
+[end]>[`]
 [pup]>[ralt]
-[pdown]>[cbrack]
+[pdown]>[\]
 
 ** pinky keys
-[=]>[=]
-[tab]>[`]
-[caps]>[kpshift]
-[kp-caps]>[kpshift]
+[=]>[menu]
+[tab]>[cbrack]
+[caps]>[obrack]
 
 [hyphen]>[hyphen]
-[\]>[\]
+[\]>[=]
 [']>[']
 
 ** bottom keys
