@@ -41,6 +41,10 @@
 [right]>[pdown]
 
 ** top keys
-[scroll]>[null]
+[escape]>[delete]
+
+[prtscr]>[prtscr]
+[scroll]>[insert]
+[pause]>[caps]
 
 * keypad layout
