@@ -2,8 +2,9 @@
 * token names: https://github.com/KinesisCorporation/SmartSetApps/blob/master/SmartSetSavantElite/u_key_service.pas#L134
 * manual: https://kinesis-ergo.com/support/advantage2/#manuals
 
-* thumb keys
+* qwerty layout
 
+** thumb keys
 [bspace]>[enter]
 [delete]>[lctrl]
 [enter]>[rctrl]
@@ -19,18 +20,17 @@
 [pup]>[ralt]
 [pdown]>[cbrack]
 
-** kp-space
-[kp0]>[bspace]
-
-* other keys
-[scroll]>[null]
-
+** pinky keys
 [=]>[=]
 [tab]>[`]
 [caps]>[kpshift]
 [kp-caps]>[kpshift]
-[\]>[\]
 
+[hyphen]>[hyphen]
+[\]>[\]
+[']>[']
+
+** bottom keys
 [up]>[down]
 [down]>[up]
 [obrack]>[left]
@@ -41,8 +41,7 @@
 [left]>[pup]
 [right]>[pdown]
 
-[kp-left]>[rmouse]
-[kp-right]>[lmouse]
+** top keys
+[scroll]>[null]
 
-* foot pedal
-[mp-kpshf]>[lctrl]
+* keypad layout
