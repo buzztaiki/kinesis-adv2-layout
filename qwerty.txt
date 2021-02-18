@@ -10,7 +10,7 @@
 [enter]>[rctrl]
 [space]>[space]
 
-[lctrl]>[tab]
+[lctrl]>[tab][t&h200][ralt]
 [lalt]>[escape][t&h200][rwin]
 [rwin]>[lwin]
 [rctrl]>[bspace]
