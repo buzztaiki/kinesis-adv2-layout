@@ -15,7 +15,8 @@
 [rwin]>[lwin]
 [rctrl]>[bspace]
 
-[home]>[lalt]
+[home]>[kpshift]
+[kp-home]>[kpshift]
 [end]>[`]
 [pup]>[ralt]
 [pdown]>[\]
@@ -43,8 +44,19 @@
 ** top keys
 [escape]>[delete]
 
-[prtscr]>[prtscr]
+[prtscr][prtscr]
 [scroll]>[insert]
 [pause]>[caps]
 
 * keypad layout
+[kp-s]>[mmouse]
+[kp-d]>[rmouse]
+[kp-f]>[lmouse]
+
+[kp-w]>[play]
+[kp-e]>[prev]
+[kp-r]>[next]
+
+[kp-t]>[vol+]
+[kp-g]>[vol-]
+[kp-b]>[mute]
