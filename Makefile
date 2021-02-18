@@ -6,10 +6,16 @@ FILES = qwerty.txt state.txt
 # 2. run make
 # 3. exit v-drive mode (type program + F1)
 
-.PHONY: default install
-
+.PHONY: default
 default: install
 
+.PHONY: install
 install($(FILES)):
 	cp $% $(VDRIVE)/active/$%
 install: install($(FILES))
+
+
+.PHONY: diff
+diff($(FILES)):
+	diff -u $(VDRIVE)/active/$% $% 
+diff: diff($(FILES))
