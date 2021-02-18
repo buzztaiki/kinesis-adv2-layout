@@ -52,11 +52,17 @@
 [kp-s]>[mmouse]
 [kp-d]>[rmouse]
 [kp-f]>[lmouse]
+[kp-g]>[lmouse]
 
-[kp-w]>[play]
-[kp-e]>[prev]
-[kp-r]>[next]
+[kp-w]>[mmouse]
+[kp-e]>[rmouse]
+[kp-r]>[lmouse]
+[kp-t]>[lmouse]
 
-[kp-t]>[vol+]
-[kp-g]>[vol-]
-[kp-b]>[mute]
+[kp-pup]>[vol+]
+[kp-pdown]>[vol-]
+[kp-enter]>[mute]
+
+[kp-rwin]>[prev]
+[kp-rctrl]>[next]
+[kp0]>[play]
