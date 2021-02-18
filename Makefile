@@ -7,3 +7,4 @@ VDRIVE = /run/media/$(USER)/ADVANTAGE2
 
 default:
 	cp qwerty.txt $(VDRIVE)/active/
+	cp state.txt $(VDRIVE)/active/
