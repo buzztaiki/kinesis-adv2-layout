@@ -11,7 +11,7 @@
 [space]>[space]
 
 [lctrl]>[tab]
-[lalt]>[escape]
+[lalt]>[escape][t&h200][rwin]
 [rwin]>[lwin]
 [rctrl]>[bspace]
 
