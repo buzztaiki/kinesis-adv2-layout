@@ -10,13 +10,12 @@
 [enter]>[rctrl]
 [space]>[space]
 
-[lctrl]>[tab][t&h200][ralt]
+[lctrl]>[tab]
 [lalt]>[escape][t&h200][rwin]
 [rwin]>[lwin]
 [rctrl]>[bspace]
 
-[home]>[kpshift]
-[kp-home]>[kpshift]
+[home]>[ralt]
 [end]>[obrack]
 [pup]>[ralt]
 [pdown]>[cbrack]
