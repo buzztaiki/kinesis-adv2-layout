@@ -17,14 +17,14 @@
 
 [home]>[kpshift]
 [kp-home]>[kpshift]
-[end]>[`]
+[end]>[obrack]
 [pup]>[ralt]
-[pdown]>[\]
+[pdown]>[cbrack]
 
 ** pinky keys
 [=]>[menu]
-[tab]>[cbrack]
-[caps]>[obrack]
+[tab]>[\]
+[caps]>[`]
 
 [hyphen]>[hyphen]
 [\]>[=]
