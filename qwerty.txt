@@ -22,11 +22,11 @@
 
 ** pinky keys
 [=]>[menu]
-[tab]>[\]
+[tab]>[=]
 [caps]>[`]
 
-[hyphen]>[hyphen]
-[\]>[=]
+[hyphen]>[\]
+[\]>[hyphen]
 [']>[']
 
 ** bottom keys
