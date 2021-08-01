@@ -30,15 +30,15 @@
 [']>[']
 
 ** bottom keys
-[up]>[left]
+[up]>[up]
 [down]>[down]
-[obrack]>[up]
+[obrack]>[left]
 [cbrack]>[right]
 
 [`]>[home]
-[intl-\]>[pup]
-[left]>[pdown]
-[right]>[end]
+[intl-\]>[end]
+[left]>[pup]
+[right]>[pdown]
 
 ** top keys
 [escape]>[delete]
