@@ -21,12 +21,13 @@
 [pdown]>[cbrack]
 
 ** pinky keys
-[=]>[menu]
-[tab]>[=]
-[caps]>[`]
+[=]>[home]
+[tab]>[end]
+[caps]>[kpshift]
+[kp-caps]>[kpshift]
 
-[hyphen]>[\]
-[\]>[hyphen]
+[hyphen]>[pup]
+[\]>[pdown]
 [']>[']
 
 ** bottom keys
@@ -35,10 +36,10 @@
 [obrack]>[left]
 [cbrack]>[right]
 
-[`]>[home]
-[intl-\]>[end]
-[left]>[pup]
-[right]>[pdown]
+[`]>[`]
+[intl-\]>[\]
+[left]>[hyphen]
+[right]>[=]
 
 ** top keys
 [escape]>[delete]
