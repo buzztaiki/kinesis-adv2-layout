@@ -24,10 +24,13 @@
 [=]>[menu]
 [tab]>[=]
 [caps]>[`]
+[lshift]>[lshift]
 
 [hyphen]>[\]
 [\]>[hyphen]
 [']>[']
+[rshift]>[rshift]
+
 
 ** bottom keys
 [up]>[up]
