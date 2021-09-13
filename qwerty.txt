@@ -24,12 +24,12 @@
 [=]>[menu]
 [tab]>[=]
 [caps]>[`]
-[lshift]>[obrack]
+[lshift]>[obrack][t&h250][lshift]
 
 [hyphen]>[\]
 [\]>[hyphen]
 [']>[']
-[rshift]>[cbrack]
+[rshift]>[cbrack][t&h250][rshift]
 
 
 ** bottom keys
