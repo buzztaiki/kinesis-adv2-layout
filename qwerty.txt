@@ -22,14 +22,15 @@
 
 ** pinky keys
 [=]>[menu]
-[tab]>[=]
-[caps]>[`]
-[lshift]>[obrack][t&h250][lshift]
+[tab]>[`]
+[caps]>[obrack]
+[lshift]>[cbrack][t&h250][lshift]
+
 
 [hyphen]>[\]
-[\]>[hyphen]
+[\]>[=]
 [']>[']
-[rshift]>[cbrack][t&h250][rshift]
+[rshift]>[hyphen][t&h250][rshift]
 
 
 ** bottom keys
