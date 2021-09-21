@@ -50,6 +50,9 @@
 [scroll]>[insert]
 [pause]>[caps]
 
+** footpedal
+[mp-kpshf]>[esc]
+
 * keypad layout
 [kp-s]>[mmouse]
 [kp-d]>[rmouse]
