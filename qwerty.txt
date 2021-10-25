@@ -5,32 +5,32 @@
 * qwerty layout
 
 ** thumb keys
-[bspace]>[enter]
-[delete]>[lctrl]
-[enter]>[rctrl]
-[space]>[space]
+[bspace]>[lctrl]
+[delete]>[enter]
+[enter]>[space]
+[space]>[rshift]
 
-[lctrl]>[tab]
-[lalt]>[escape][t&h200][rwin]
-[rwin]>[lwin]
-[rctrl]>[bspace]
+[lctrl]>[lalt]
+[lalt]>[lwin]
+[rwin]>[rwin]
+[rctrl]>[ralt]
 
-[home]>[ralt]
-[end]>[lshift]
-[pup]>[ralt]
-[pdown]>[rshift]
+[home]>[tab]
+[end]>[escape]
+[pup]>[bspace]
+[pdown]>[delete]
 
 ** pinky keys
 [=]>[menu]
 [tab]>[`]
 [caps]>[obrack]
-[lshift]>[cbrack][t&h250][lshift]
+[lshift]>[cbrack]
 
 
 [hyphen]>[\]
 [\]>[=]
 [']>[']
-[rshift]>[hyphen][t&h250][rshift]
+[rshift]>[hyphen]
 
 
 ** bottom keys
@@ -52,7 +52,7 @@
 [pause]>[caps]
 
 ** footpedal
-[mp-kpshf]>[esc]
+[mp-kpshf]>[lctrl]
 
 * keypad layout
 [kp-s]>[mmouse]
