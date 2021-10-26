@@ -15,9 +15,9 @@
 [rwin]>[lwin]
 [rctrl]>[ralt]
 
-[home]>[tab]
+[home]>[tab][t&h250][lalt]
 [end]>[escape]
-[pup]>[bspace]
+[pup]>[bspace][t&h250][ralt]
 [pdown]>[delete]
 
 ** pinky keys
