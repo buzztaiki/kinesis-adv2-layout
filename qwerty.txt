@@ -6,19 +6,19 @@
 
 ** thumb keys
 [bspace]>[lctrl]
-[delete]>[enter]
-[enter]>[space]
+[delete]>[enter][t&h250][lshift]
+[enter]>[space][t&h250][rctrl]
 [space]>[rshift]
 
-[lctrl]>[lalt]
-[lalt]>[lwin]
-[rwin]>[rwin]
-[rctrl]>[ralt]
+[lctrl]>[tab]
+[lalt]>[escape]
+[rwin]>[delete]
+[rctrl]>[bspace]
 
-[home]>[tab]
-[end]>[escape]
-[pup]>[bspace]
-[pdown]>[delete]
+[home]>[lalt]
+[end]>[lwin]
+[pup]>[ralt]
+[pdown]>[lwin]
 
 ** pinky keys
 [=]>[menu]
