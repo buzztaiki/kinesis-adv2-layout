@@ -10,15 +10,15 @@
 [enter]>[space][t&h250][rctrl]
 [space]>[rshift]
 
-[lctrl]>[tab]
-[lalt]>[escape]
-[rwin]>[delete]
-[rctrl]>[bspace]
+[lctrl]>[lalt]
+[lalt]>[lwin]
+[rwin]>[lwin]
+[rctrl]>[ralt]
 
-[home]>[lalt]
-[end]>[lwin]
-[pup]>[ralt]
-[pdown]>[lwin]
+[home]>[tab]
+[end]>[escape]
+[pup]>[bspace]
+[pdown]>[delete]
 
 ** pinky keys
 [=]>[menu]
