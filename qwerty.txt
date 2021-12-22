@@ -52,23 +52,5 @@
 [pause]>[caps]
 
 ** footpedal
-[mp-kpshf]>[lctrl]
 
-* keypad layout
-[kp-s]>[mmouse]
-[kp-d]>[rmouse]
-[kp-f]>[lmouse]
-[kp-g]>[lmouse]
-
-[kp-w]>[mmouse]
-[kp-e]>[rmouse]
-[kp-r]>[lmouse]
-[kp-t]>[lmouse]
-
-[kp-pup]>[vol+]
-[kp-pdown]>[vol-]
-[kp-enter]>[mute]
-
-[kp-rwin]>[prev]
-[kp-rctrl]>[next]
-[kp0]>[play]
+*[mp-kpshf]>[lctrl]
