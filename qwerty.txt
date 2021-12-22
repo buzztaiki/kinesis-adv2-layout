@@ -6,8 +6,8 @@
 
 ** thumb keys
 [bspace]>[lctrl]
-[delete]>[enter][t&h250][lshift]
-[enter]>[space][t&h250][rctrl]
+[delete]>[enter]
+[enter]>[space]
 [space]>[rshift]
 
 [lctrl]>[lalt]
@@ -15,19 +15,19 @@
 [rwin]>[lwin]
 [rctrl]>[ralt]
 
-[home]>[tab]
-[end]>[escape]
-[pup]>[bspace]
-[pdown]>[delete]
+[home]>[`]
+[end]>[lshift]
+[pup]>[\]
+[pdown]>[rctrl]
 
 ** pinky keys
-[=]>[menu]
-[tab]>[`]
+[=]>[escape]
+[tab]>[tab]
 [caps]>[obrack]
 [lshift]>[cbrack]
 
 
-[hyphen]>[\]
+[hyphen]>[bspace]
 [\]>[=]
 [']>[']
 [rshift]>[hyphen]
