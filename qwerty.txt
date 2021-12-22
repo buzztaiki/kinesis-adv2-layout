@@ -8,23 +8,23 @@
 [bspace]>[lctrl]
 [delete]>[enter]
 [enter]>[space]
-[space]>[rshift]
+[space]>[rctrl]
 
-[lctrl]>[lalt]
+[lctrl]>[lshift]
 [lalt]>[lwin]
 [rwin]>[lwin]
-[rctrl]>[ralt]
+[rctrl]>[rshift]
 
-[home]>[`]
-[end]>[lshift]
-[pup]>[\]
-[pdown]>[rctrl]
+[end]>[obrack]
+[home]>[lalt]
+[pup]>[ralt]
+[pdown]>[cbrack]
 
 ** pinky keys
 [=]>[escape]
 [tab]>[tab]
-[caps]>[obrack]
-[lshift]>[cbrack]
+[caps]>[`]
+[lshift]>[\]
 
 
 [hyphen]>[bspace]
