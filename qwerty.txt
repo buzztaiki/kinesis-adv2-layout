@@ -23,8 +23,8 @@
 ** pinky keys
 [=]>[escape]
 [tab]>[tab]
-[caps]>[hyphen]
-[lshift]>[=]
+[caps]>[=]
+[lshift]>[hyphen]
 
 [hyphen]>[bspace]
 [\]>[\]
