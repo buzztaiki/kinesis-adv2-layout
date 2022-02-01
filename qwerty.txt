@@ -23,13 +23,14 @@
 ** pinky keys
 [=]>[escape]
 [tab]>[tab]
-[caps]>[=]
-[lshift]>[hyphen]
+[caps]>[`]
+[lshift]>[\]
 
 [hyphen]>[bspace]
-[\]>[\]
+[\]>[=]
 [']>[']
-[rshift]>[`]
+[rshift]>[hyphen]
+
 
 ** bottom keys
 [up]>[up]
