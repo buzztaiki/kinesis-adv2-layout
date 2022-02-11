@@ -1,7 +1,3 @@
-* tap and hold: [lshift]>[esc][t&h250][lshift]
-* token names: https://github.com/KinesisCorporation/SmartSetApps/blob/master/SmartSetSavantElite/u_key_service.pas#L134
-* manual: https://kinesis-ergo.com/support/advantage2/#manuals
-
 * qwerty layout
 
 ** thumb keys
