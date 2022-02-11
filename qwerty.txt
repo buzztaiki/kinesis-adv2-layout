@@ -15,10 +15,10 @@
 [rwin]>[lwin]
 [rctrl]>[ralt]
 
-[end]>[lshift]
-[home]>[obrack]
-[pup]>[cbrack]
-[pdown]>[rctrl]
+[home>[lshift]
+[end]>
+[pup]>[pup]
+[pdown]>[pdown]
 
 ** pinky keys
 [=]>[escape]
@@ -31,7 +31,6 @@
 [']>[']
 [rshift]>[hyphen]
 
-
 ** bottom keys
 [up]>[up]
 [down]>[down]
@@ -40,8 +39,8 @@
 
 [`]>[home]
 [intl-\]>[end]
-[left]>[pup]
-[right]>[pdown]
+[left]>[obrack]
+[right]>[cbrack]
 
 ** top keys
 [escape]>[delete]
