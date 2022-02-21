@@ -11,19 +11,19 @@
 [rwin]>[lwin]
 [rctrl]>[ralt]
 
-[home>[lshift]
-[end]>
-[pup]>[pup]
+[home]>[home][t&h200][lshift]
+[end]>[end]
+[pup]>[pup][t&h200][rctrl]
 [pdown]>[pdown]
 
-** pinky keys
-[=]>[escape]
-[tab]>[tab]
-[caps]>[`]
-[lshift]>[\]
+** side keys
+[=]>[insert]
+[tab]>[escape]
+[caps]>[tab]
+[lshift]>[=]
 
-[hyphen]>[bspace]
-[\]>[=]
+[hyphen]>[delete]
+[\]>[bspace]
 [']>[']
 [rshift]>[hyphen]
 
@@ -33,17 +33,17 @@
 [obrack]>[left]
 [cbrack]>[right]
 
-[`]>[home]
-[intl-\]>[end]
+[`]>[`]
+[intl-\]>[\]
 [left]>[obrack]
 [right]>[cbrack]
 
 ** top keys
-[escape]>[delete]
+[escape]>[caps]
 
 [prtscr][prtscr]
-[scroll]>[insert]
-[pause]>[caps]
+[scroll]>[scroll]
+[pause]>[pause]
 
 ** footpedal
 
