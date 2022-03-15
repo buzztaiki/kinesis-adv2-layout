@@ -17,7 +17,7 @@
 [pdown]>[pdown]
 
 ** side keys
-[=]>[insert]
+[=]>[lmouse]
 [tab]>[escape]
 [caps]>[tab]
 [lshift]>[=]
@@ -39,7 +39,7 @@
 [right]>[cbrack]
 
 ** top keys
-[escape]>[caps]
+[escape]>[insert]
 
 [prtscr][prtscr]
 [scroll]>[scroll]
