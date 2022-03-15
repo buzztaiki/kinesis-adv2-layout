@@ -27,4 +27,4 @@
 
 ## References
 - Manual: https://kinesis-ergo.com/support/advantage2/#manuals
-- Token names: https://github.com/KinesisCorporation/SmartSetApps/blob/master/SmartSetSavantElite/u_key_service.pas#L134
+- Token names: https://github.com/KinesisCorporation/SmartSetApps/blob/90aaa1731d509a4c59ce6523ca41f89a179a6094/Common/u_const.pas#L1362
