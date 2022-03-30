@@ -8,19 +8,19 @@
 ## Cheat Sheat
 
 ```
-' this is a comment line
+* this is a comment line
 
-'tap and hold: tap to esc, hold > 250ms to lshift
+*tap and hold: tap to esc, hold > 250ms to lshift
 [lshift]>[esc][t&h250][lshift]
 
-' macro
+* macro
 {rctrl}{g}>{g}{o}
 {delete}>{-lctrl}{enter}{+rctrl}{2}{=}{3}
 
-' keypad toggle
+* keypad toggle
 [end]>[kptoggle]
 
-' keypad shift
+* keypad shift
 [end]>[kpshift]
 [kp-end]>[kpshift]
 ```

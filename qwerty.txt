@@ -41,7 +41,7 @@
 ** top keys
 [escape]>[insert]
 
-[prtscr][prtscr]
+[prtscr]>[prtscr]
 [scroll]>[scroll]
 [pause]>[pause]
 
