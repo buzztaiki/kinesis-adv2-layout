@@ -18,12 +18,12 @@
 
 ** side keys
 [=]>[lmouse]
-[tab]>[escape]
-[caps]>[tab]
+[tab]>[\]
+[caps]>[`]
 [lshift]>[=]
 
-[hyphen]>[delete]
-[\]>[bspace]
+[hyphen]>[obrack]
+[\]>[cbrack]
 [']>[']
 [rshift]>[hyphen]
 
@@ -33,10 +33,10 @@
 [obrack]>[left]
 [cbrack]>[right]
 
-[`]>[`]
-[intl-\]>[\]
-[left]>[obrack]
-[right]>[cbrack]
+[`]>[delete]
+[intl-\]>[escape]
+[left]>[tab]
+[right]>[bspace]
 
 ** top keys
 [escape]>[insert]
